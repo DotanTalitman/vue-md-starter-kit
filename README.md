@@ -3,8 +3,11 @@
 # vue 2 starter kit
 <br>
 
-#### just run :
+```html
+npm install
+
 npm run dev 
+```
 <br><br>
 #### include:
 <p>vuejs 2</p>
