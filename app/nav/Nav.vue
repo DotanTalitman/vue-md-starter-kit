@@ -44,16 +44,5 @@ export default {
 </script>
 
 <style scoped>
-nav {
-    width: 50%;
-}
 
-nav ul {
-    display: flex;
-    justify-content: space-between;
-}
-
-nav ul li {
-    list-style: none;
-}
 </style>
